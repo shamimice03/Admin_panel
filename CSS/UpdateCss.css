@@ -1,0 +1,16 @@
+html, body {
+  height: 100%;
+}
+body {
+  background: #f2f2f2;
+}
+#container {
+
+  margin-top: 30px;
+  background: #f2f2f2;
+  width: 900px;
+  margin-left: auto;
+  margin-right: auto;   
+  overflow: hidden;
+}
+
